@@ -7,11 +7,9 @@ https://elmas3.github.io/mao-seminar
 エルマス。
 若葉。
 。
+ターミナなる
 
-
-
-＃ディレクトリ
-```
+`
 seminar/
 ├─ index.html        # トップページ
 ├─ member.html       # メンバー紹介ページ
